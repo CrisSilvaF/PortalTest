@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_high",NAME="english stereo",LANGUAGE="en",AUTOSELECT=YES,URI="105560_audio_1_stereo_128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_high",NAME="english stereo",LANGUAGE="en",AUTOSELECT=YES,URI="https://svtmediadata.s3.us-east-2.amazonaws.com/SVT+Intro+360+VR_1080pFHR.mp4"
 
 #EXT-X-STREAM-INF:BANDWIDTH=18128000,CODECS="avc1.42c00d,mp4a.40.2",RESOLUTION=3840x1920,AUDIO="audio_high"
 105560_video_1920_9000000.m3u8
